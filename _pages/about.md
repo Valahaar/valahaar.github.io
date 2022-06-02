@@ -25,6 +25,6 @@ My main research area is the field of Neural Machine Translation, with a particu
 
 I got my BSc from <a href="https://uniroma3.it">Università degli Studi Roma Tre</a> and my MSc from <a href="https://uniroma3.it">Università La Sapienza</a>, both in <i>Engineering in Computer Science</i>.
 
-I am an <i>avid</i> gamer 🎮! For the past few months I've been particularly enjoying <a href="https://www.ea.com/games/knockout-city">Knockout City</a> :) I also watch a lot of movies / tv series, and enjoy reading mangas / comics on occasion.
+I am an <i>avid</i> gamer 🎮! For the past few months I've been particularly enjoying <a href="https://knockoutcity.com/">Knockout City</a> :) I also watch a lot of movies / tv series, and enjoy reading mangas / comics on occasion.
 
 I also proudly own a Kawasaki Z650, which I love 🏍💕 and I hold a 1st Dan black belt in Goju-Ryu Karate 🥋 (which I had to stop practicing since the pandemic started 😔).
