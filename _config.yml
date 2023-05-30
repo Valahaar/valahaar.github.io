@@ -8,7 +8,7 @@ middle_name:
 last_name: Campolungo
 email: campolungo@di.uniroma1.it
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Niccolò Campolungo's personal page. 3rd year PhD student at SapienzaNLP!
+  Niccolò Campolungo's personal page. PhD from SapienzaNLP!
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -83,7 +83,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # -----------------------------------------------------------------------------
 
 blog_name: N. Campolungo's personal blog  # your blog must have a name for it to show up in the nav bar
-blog_description: Niccolò Campolungo's personal blog. 3rd year PhD student at SapienzaNLP!
+blog_description: Niccolò Campolungo's personal blog. PhD from SapienzaNLP!
 permalink: /blog/:year/:title/
 
 # Pagination

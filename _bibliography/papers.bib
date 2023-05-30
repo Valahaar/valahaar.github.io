@@ -1,6 +1,35 @@
 ---
 ---
 
+@inproceedings{barba-etal-2023-dmlm,
+  abbr={ACL},
+  title = "{DMLM}: {D}escriptive {M}asked {L}anguage {M}odeling",
+  author = "Barba, Edoardo and Campolungo, Niccol{\`o} and Navigli, Roberto",
+  booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+  month = july,
+  year = "2023",
+  address = "Toronto, Canada",
+  publisher = "Association for Computational Linguistics",
+  abstract="Over the last few years, Masked Language Modeling (MLM) pre-training has resulted in remarkable advancements in many Natural Language Understanding (NLU) tasks, which has sparked an interest in researching alternatives and extensions to the MLM objective. In this paper, we tackle the absence of explicit semantic grounding in MLM and propose Descriptive Masked Language Modeling (DMLM), a knowledge-enhanced reading comprehension objective, where the model is required to predict the most likely word in a context, being provided with the word's definition. For instance, given the sentence ``I was going to the \_'', if we provided as definition ``financial institution'', the model would have to predict the word ``bank''; if, instead, we provided ``sandy seashore'', the model should predict ``beach''. Our evaluation highlights the effectiveness of DMLM in comparison with standard MLM, showing improvements on a number of well-established NLU benchmarks, as well as other semantics-focused tasks, e.g., Semantic Role Labeling. Furthermore, we also demonstrate how it is possible to take full advantage of DMLM to embed explicit semantics in downstream tasks, explore several properties of DMLM-based contextual representations and suggest a number of future directions to investigate.",
+}
+
+@inproceedings{perrella-etal-2022-matese,
+    title = "{M}a{TES}e: Machine Translation Evaluation as a Sequence Tagging Problem",
+    author = "Perrella, Stefano  and
+      Proietti, Lorenzo  and
+      Scir{\`e}, Alessandro  and
+      Campolungo, Niccol{\`o}  and
+      Navigli, Roberto",
+    booktitle = "Proceedings of the Seventh Conference on Machine Translation (WMT)",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates (Hybrid)",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.wmt-1.51",
+    pages = "569--577",
+    abstract = "Starting from last year, WMT human evaluation has been performed within the Multidimensional Quality Metrics (MQM) framework, where human annotators are asked to identify error spans in translations, alongside an error category and a severity. In this paper, we describe our submission to the WMT 2022 Metrics Shared Task, where we propose using the same paradigm for automatic evaluation: we present the MaTESe metrics, which reframe machine translation evaluation as a sequence tagging problem. Our submission also includes a reference-free metric, denominated MaTESe-QE. Despite the paucity of the openly available MQM data, our metrics obtain promising results, showing high levels of correlation with human judgements, while also enabling an evaluation that is interpretable. Moreover, MaTESe-QE can also be employed in settings where it is infeasible to curate reference translations manually.",
+}
+
 @inproceedings{campolungo-etal-2022-dibimt,
   abbr={ACL},
   title = "{D}i{B}i{MT}: A Novel Benchmark for Measuring {W}ord {S}ense {D}isambiguation Biases in {M}achine {T}ranslation",

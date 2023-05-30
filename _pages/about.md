@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i>3rd year PhD student</i> @ <a href="https://nlp.uniroma1.it/">SapienzaNLP</a>
+subtitle: <i>PhD</i> from La Sapienza University of Rome
 
 profile:
   align: right
   image: me.jpg
-  address: >
-    <p>Building G, Room G48</p>
-    <p>Viale Regina Elena, 295</p>
-    <p>Rome, Italy</p>
+  # address: >
+  #   <p>Building G, Room G48</p>
+  #   <p>Viale Regina Elena, 295</p>
+  #   <p>Rome, Italy</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 Heeeeello! 👋
 
-I'm Niccolò, a PhD student under the supervision of <a href="https://www.diag.uniroma1.it/navigli/">prof. Roberto Navigli</a> in the <a href="https://nlp.uniroma1.it/">SapienzaNLP</a> group.
+I'm Niccolò, and I got my PhD in the <a href="https://nlp.uniroma1.it/">SapienzaNLP</a> group.
 
 My main research area is the field of Neural Machine Translation, with a particular focus on reducing Semantic Biases that most NMT models exhibit. Of course, I also do / did research in other areas, I like to keep an open mind! 🤓
 
